@@ -1,0 +1,3 @@
+# MyViewPager
+结合ViewPger+Fragment+页卡文字。页面切换点击事件
+分为三种情况：简单的pagerAdapter、结合FragmentPagerAdapter适配器的Fragment+viewpager、带有页卡顶端文字滑动的ViewPager
